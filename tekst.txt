@@ -1,0 +1,2 @@
+Jest jeszcze jedna rzecz, którą można tutaj poprawić. Każde zapisanie tekstu nadpisuje jego poprzednią zawartość. Byłoby o niebo lepiej gdyby tekst był dopisywany do istniejącego pliku.
+A tak wyglądają po zapisie!
